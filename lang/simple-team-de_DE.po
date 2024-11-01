@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-team\n"
+"POT-Creation-Date: 2016-02-17 12:51+0100\n"
+"PO-Revision-Date: 2016-02-17 12:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Emanuel Seibold <info@seiboldsoft.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-dashboard-glancer.php:40
+msgid "Trying to add At a Glance items to dashboard widget afterhook already fired"
+msgstr "Versuche ein Teil zum Dashboard hinzuzufügen, das bereits angelegt wurde"
+
+#: simple-team.php:164
+msgid "Team"
+msgstr "Team"
+
+#: simple-team.php:165 widgets/widget-team.php:67
+msgid "Team Member"
+msgstr "Team Mitglieder"
+
+#: simple-team.php:166 simple-team.php:167
+msgid "Add Profile"
+msgstr "Profil hinzufügen"
+
+#: simple-team.php:168
+msgid "Edit Profile"
+msgstr "Profil bearbeiten"
+
+#: simple-team.php:169
+msgid "New Team Member"
+msgstr "Neues Team Mitgleid"
+
+#: simple-team.php:170
+msgid "View Profile"
+msgstr "Profil Zeigen"
+
+#: simple-team.php:171
+msgid "Search Team"
+msgstr "Suche Team"
+
+#: simple-team.php:172
+msgid "No profiles found"
+msgstr "Keine Profile gefunden"
+
+#: simple-team.php:173
+msgid "No profiles in the trash"
+msgstr "Kein Profil im Papierkorb"
+
+#: simple-team.php:206 simple-team.php:208
+msgid "Team Categories"
+msgstr "Team Kategorien"
+
+#: simple-team.php:207
+msgid "Team Category"
+msgstr "Team Kategorie"
+
+#: simple-team.php:209
+msgid "Edit Team Category"
+msgstr "Team Kategorie bearbeiten"
+
+#: simple-team.php:210
+msgid "Update Team Category"
+msgstr "Team Kategorie Aktualisieren"
+
+#: simple-team.php:211
+msgid "Add New Team Category"
+msgstr "Team Kategorie hinzufügen"
+
+#: simple-team.php:212
+msgid "New Team Category Name"
+msgstr "Neue Team Kategorie  Name"
+
+#: simple-team.php:213
+msgid "Parent Team Category"
+msgstr "Vorherrige Team Kategorie"
+
+#: simple-team.php:214
+msgid "Parent Team Category:"
+msgstr "Vorherrige Team Kategorie:"
+
+#: simple-team.php:215
+msgid "All Team Categories"
+msgstr "Alle Team-Kategorie"
+
+#: simple-team.php:216
+msgid "Search Team Categories"
+msgstr "Suche Team Kategorien"
+
+#: simple-team.php:217
+msgid "Popular Team Categories"
+msgstr "Wichtige Team Kategorien"
+
+#: simple-team.php:218
+msgid "Separate team categories with commas"
+msgstr "Trenne Team-Kategorien mit Kommas"
+
+#: simple-team.php:219
+msgid "Add or remove team categories"
+msgstr "Erstelle oder lösche Team Kategorie"
+
+#: simple-team.php:220
+msgid "Choose from the most used team categories"
+msgstr "Wähle eine der am häufigsten genutzten Team Kategorien"
+
+#: simple-team.php:221
+msgid "No team categories found."
+msgstr "Keine Team Kategorie gefunden."
+
+#: simple-team.php:337
+msgid "Title"
+msgstr "Titel"
+
+#: simple-team.php:342
+msgid "E.g. CEO, Sales Lead, Designer"
+msgstr "Z.b. CEO, Verkaufsleiter, Designer"
+
+#: simple-team.php:348
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: simple-team.php:358
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: simple-team.php:368
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: simple-team.php:529
+msgid "Image"
+msgstr "Bild"
+
+#: widgets/widget-team.php:26
+msgid "Simple Team Widget"
+msgstr "Simple Team Widget"
+
+#: widgets/widget-team.php:27
+msgid "Team Widget"
+msgstr "Team Widget"
+
+#: widgets/widget-team.php:91
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/widget-team.php:95
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: widgets/widget-team.php:111
+msgid "Template:"
+msgstr "Vorlage:"
+
+#: widgets/widget-team.php:128
+msgid "Amount:"
+msgstr "Anzahl:"
+
+#~ msgid "BeautyMatters - Team Widget"
+#~ msgstr "BeautyMatters - Team Widget"
